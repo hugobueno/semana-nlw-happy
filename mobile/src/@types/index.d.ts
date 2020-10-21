@@ -1,0 +1,2 @@
+// NFORMANDO QUE TODO ARQUIVO .PNG PODE SER IMPORTADO
+declare module '*.png'
